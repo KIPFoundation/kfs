@@ -1,2 +1,2 @@
-# kfs
+# KFS
 Krama File System
